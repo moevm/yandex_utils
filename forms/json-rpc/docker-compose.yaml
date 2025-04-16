@@ -1,0 +1,10 @@
+services:
+  app:
+    build:
+      context: .
+    ports:
+      - 8010:8010
+    environment:
+      - TZ=Europe/Moscow
+      - PYTHONUNBUFFERED=0
+    command: bash -c "python3 http_server.py"

@@ -1,0 +1,393 @@
+{
+  "id": 2036821275,
+  "survey_id": "67ff7bcbd046888d99dc1680",
+  "created": "2025-04-16T10:24:09Z",
+  "lang": "ru",
+  "answer": {
+    "id": 2036821275,
+    "data": {
+      "answer_short_text_77441421": {
+        "value": "1",
+        "question": {
+          "id": 77441421,
+          "slug": "answer_short_text_77441421",
+          "options": {
+            "required": false
+          },
+          "answer_type": {
+            "id": 1,
+            "slug": "answer_short_text"
+          }
+        }
+      },
+      "answer_long_text_77441428": {
+        "value": "2",
+        "question": {
+          "id": 77441428,
+          "slug": "answer_long_text_77441428",
+          "options": {
+            "required": false
+          },
+          "answer_type": {
+            "id": 2,
+            "slug": "answer_long_text"
+          }
+        }
+      },
+      "answer_choices_77441439": {
+        "value": [
+          {
+            "key": "155953988",
+            "slug": "155953988",
+            "text": "Вариант 1"
+          }
+        ],
+        "question": {
+          "id": 77441439,
+          "slug": "answer_choices_77441439",
+          "options": {
+            "multiple": false,
+            "ordering": "natural",
+            "required": false,
+            "data_source": "survey_question_choice"
+          },
+          "answer_type": {
+            "id": 3,
+            "slug": "answer_choices"
+          }
+        }
+      },
+      "answer_choices_77441473": {
+        "value": [
+          {
+            "key": "155954062",
+            "slug": "155954062",
+            "text": "Вариант 1"
+          }
+        ],
+        "question": {
+          "id": 77441473,
+          "slug": "answer_choices_77441473",
+          "options": {
+            "multiple": true,
+            "ordering": "natural",
+            "required": false,
+            "data_source": "survey_question_choice"
+          },
+          "answer_type": {
+            "id": 3,
+            "slug": "answer_choices"
+          }
+        }
+      },
+      "answer_choices_77441478": {
+        "value": [
+          {
+            "key": "155954067",
+            "slug": "155954067",
+            "text": "Вариант 1"
+          }
+        ],
+        "question": {
+          "id": 77441478,
+          "slug": "answer_choices_77441478",
+          "options": {
+            "multiple": false,
+            "ordering": "natural",
+            "required": false,
+            "data_source": "survey_question_choice"
+          },
+          "answer_type": {
+            "id": 3,
+            "slug": "answer_choices"
+          }
+        }
+      },
+      "answer_boolean_77441484": {
+        "value": true,
+        "question": {
+          "id": 77441484,
+          "slug": "answer_boolean_77441484",
+          "options": {
+            "required": false
+          },
+          "answer_type": {
+            "id": 33,
+            "slug": "answer_boolean"
+          }
+        }
+      },
+      "answer_short_text_77441490": {
+        "value": "3",
+        "question": {
+          "id": 77441490,
+          "slug": "answer_short_text_77441490",
+          "options": {
+            "required": false
+          },
+          "answer_type": {
+            "id": 1,
+            "slug": "answer_short_text"
+          }
+        }
+      },
+      "answer_number_77441492": {
+        "value": 4,
+        "question": {
+          "id": 77441492,
+          "slug": "answer_number_77441492",
+          "options": {
+            "required": false
+          },
+          "answer_type": {
+            "id": 31,
+            "slug": "answer_number"
+          }
+        }
+      },
+      "answer_choices_77441506": {
+        "value": [
+          {
+            "col": {
+              "key": "16149818",
+              "text": "3"
+            },
+            "row": {
+              "key": "16149814",
+              "text": "Материалы"
+            }
+          },
+          {
+            "col": {
+              "key": "16149817",
+              "text": "2"
+            },
+            "row": {
+              "key": "16149815",
+              "text": "Преподавание"
+            }
+          }
+        ],
+        "question": {
+          "id": 77441506,
+          "slug": "answer_choices_77441506",
+          "options": {
+            "multiple": false,
+            "required": false,
+            "data_source": "survey_question_matrix_choice"
+          },
+          "answer_type": {
+            "id": 3,
+            "slug": "answer_choices"
+          }
+        }
+      },
+      "answer_non_profile_email_77441509": {
+        "value": "1@mail.ru",
+        "question": {
+          "id": 77441509,
+          "slug": "answer_non_profile_email_77441509",
+          "options": {
+            "required": false
+          },
+          "answer_type": {
+            "id": 32,
+            "slug": "answer_non_profile_email"
+          }
+        }
+      },
+      "answer_url_77441535": {
+        "value": "https://forms.yandex.ru/",
+        "question": {
+          "id": 77441535,
+          "slug": "answer_url_77441535",
+          "options": {
+            "required": false
+          },
+          "answer_type": {
+            "id": 35,
+            "slug": "answer_url"
+          }
+        }
+      },
+      "answer_phone_77441542": {
+        "value": "+7 999 999-99-99",
+        "question": {
+          "id": 77441542,
+          "slug": "answer_phone_77441542",
+          "options": {
+            "required": false
+          },
+          "answer_type": {
+            "id": 38,
+            "slug": "answer_phone"
+          }
+        }
+      },
+      "answer_files_77441547": {
+        "value": [
+          {
+            "name": "dron.py",
+            "path": "/4412411/67ff852190fa7b94cdcd68ad_dron.py",
+            "size": 2296,
+            "namespace": "forms"
+          }
+        ],
+        "question": {
+          "id": 77441547,
+          "slug": "answer_files_77441547",
+          "options": {
+            "required": false
+          },
+          "answer_type": {
+            "id": 34,
+            "slug": "answer_files"
+          }
+        }
+      },
+      "answer_date_77441554": {
+        "value": "1111-11-11",
+        "question": {
+          "id": 77441554,
+          "slug": "answer_date_77441554",
+          "options": {
+            "required": false,
+            "date_range": false
+          },
+          "answer_type": {
+            "id": 39,
+            "slug": "answer_date"
+          }
+        }
+      },
+      "answer_choices_77441561": {
+        "value": [
+          {
+            "key": "46",
+            "slug": "225",
+            "text": "Россия"
+          }
+        ],
+        "question": {
+          "id": 77441561,
+          "slug": "answer_choices_77441561",
+          "options": {
+            "multiple": false,
+            "required": false,
+            "data_source": "country"
+          },
+          "answer_type": {
+            "id": 3,
+            "slug": "answer_choices"
+          }
+        }
+      },
+      "answer_short_text_77441567": {
+        "value": "7813045402",
+        "question": {
+          "id": 77441567,
+          "slug": "answer_short_text_77441567",
+          "options": {
+            "required": false
+          },
+          "answer_type": {
+            "id": 1,
+            "slug": "answer_short_text"
+          }
+        }
+      },
+      "answer_choices_77441623": {
+        "value": [
+          {
+            "key": "155966600",
+            "slug": "155966600",
+            "text": "Вариант 2"
+          }
+        ],
+        "scores": "1",
+        "question": {
+          "id": 77441623,
+          "slug": "answer_choices_77441623",
+          "options": {
+            "multiple": false,
+            "ordering": "natural",
+            "required": false,
+            "data_source": "survey_question_choice"
+          },
+          "answer_type": {
+            "id": 3,
+            "slug": "answer_choices"
+          }
+        }
+      },
+      "answer_choices_77441630": {
+        "value": [
+          {
+            "key": "155954292",
+            "slug": "155954292",
+            "text": "Вариант 1"
+          },
+          {
+            "key": "155966623",
+            "slug": "155966623",
+            "text": "Вариант 3"
+          }
+        ],
+        "scores": "0",
+        "question": {
+          "id": 77441630,
+          "slug": "answer_choices_77441630",
+          "options": {
+            "multiple": true,
+            "ordering": "natural",
+            "required": false,
+            "data_source": "survey_question_choice"
+          },
+          "answer_type": {
+            "id": 3,
+            "slug": "answer_choices"
+          }
+        }
+      },
+      "answer_short_text_77441639": {
+        "value": "6",
+        "scores": "0",
+        "question": {
+          "id": 77441639,
+          "slug": "answer_short_text_77441639",
+          "options": {
+            "required": false
+          },
+          "answer_type": {
+            "id": 1,
+            "slug": "answer_short_text"
+          }
+        }
+      },
+      "answer_short_text_77441647": {
+        "value": "77",
+        "scores": "0",
+        "question": {
+          "id": 77441647,
+          "slug": "answer_short_text_77441647",
+          "options": {
+            "required": false
+          },
+          "answer_type": {
+            "id": 1,
+            "slug": "answer_short_text"
+          }
+        }
+      }
+    },
+    "quiz": {
+      "scores": "1",
+      "total_scores": "5",
+      "question_count": 4
+    },
+    "survey": {
+      "id": "67ff7bcbd046888d99dc1680"
+    },
+    "created": "2025-04-16T10:24:09Z"
+  }
+}
