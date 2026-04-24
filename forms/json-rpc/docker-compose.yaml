@@ -7,4 +7,6 @@ services:
     environment:
       - TZ=Europe/Moscow
       - PYTHONUNBUFFERED=0
+    volumes:
+      - ${GOOGLE_CRED}:/app/google_conf.json
     command: bash -c "python3 http_server.py"
